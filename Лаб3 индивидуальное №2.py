@@ -11,15 +11,27 @@ x2 = b % 2
 x3 = c % 2
 if x1 == 0 and x2 !=0 and x3 !=0:
     print("Среди трех чисел есть четные")
-elif x1 == 0 and x2==0 and x3 !=0:
+
+    
+    elif x1 == 0 and x2==0 and x3 !=0:
     print("Среди трех чисел есть четные")
-elif x1 == 0 and x2 == 0 and x3==0:
+
+    
+    elif x1 == 0 and x2 == 0 and x3==0:
     print("Среди трех чисел есть четные")
-elif x1 != 0 and x2 != 0 and x3==0:
+
+    
+    elif x1 != 0 and x2 != 0 and x3==0:
     print("Среди трех чисел есть четные")
-elif x1 != 0 and x2 == 0 and x3 ==0:
+
+    
+    elif x1 != 0 and x2 == 0 and x3 ==0:
     print("Среди трех чисел есть четные")
-elif x1 == 0 and x2 != 0 and x3 ==0:
+
+    
+    elif x1 == 0 and x2 != 0 and x3 ==0:
     print("Среди трех чисел есть четные")
-else:
+
+    
+    else:
     print("Среди трех чисел нет четных чисел")
